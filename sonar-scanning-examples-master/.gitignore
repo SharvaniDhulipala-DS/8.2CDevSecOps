@@ -1,0 +1,34 @@
+# SonarQube scanner files
+.scannerwork/
+**/.scannerwork/
+
+# Gradle files
+.gradle/
+.classpath
+.project
+.settings/
+bin/
+
+# Build output
+build/
+.sonar
+target/
+bw-outputs/
+
+# IntelliJ
+.idea
+*.iml
+
+# mac
+.DS_Store
+
+# MSBuild
+obj/
+
+# Miscellaneous files
+.coverage
+
+__pycache__
+
+.vscode/
+**/.vscode/
